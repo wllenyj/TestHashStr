@@ -3,10 +3,12 @@ Test your id field use which HashStr function is most appropriate
 
 ## Useage
 Edit your own keys.txt file, the content for you to test the id field. Such as:
+```
 9787101003048
 3529385239842
 2398523985293
 3469431928234
+```
 
 ``` shell
 $ sh run.sh 
